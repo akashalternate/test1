@@ -1,1 +1,3 @@
 hello frands welcam to jabascript tutarial
+updated and added more info to this text file through vi text editor
+
